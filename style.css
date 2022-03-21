@@ -1,0 +1,52 @@
+.nav-link:hover{
+    background-color: rgba(240, 248, 255, 0.556);
+   
+    border-radius: 10px;
+}
+.nav-link,.navbar-brand{
+    border-radius: 10px;
+}
+.navbar-brand:hover{
+    font-weight: bold;
+    color:white;
+}
+.navbar-toggler-icon{
+    color: red;
+}
+.display-4{
+    text-decoration: none;
+}
+
+.tombol{
+    display: flex;
+}
+.acon:hover{
+    background-color: rgb(12, 158, 158);
+}
+.sosmed{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.sosmed li{
+    margin: 1vh;
+    margin-bottom: 20vh;
+    
+}
+.sosmed li a{
+    color: white;
+    text-decoration: none;
+}
+.sosmed li a:hover{
+   color: rgb(14, 197, 197);
+}
+footer a{
+    color: rgb(7, 191, 191);
+}
+footer a:hover{
+ color: white;
+}
+footer{
+    padding-bottom: 2vh;
+}
