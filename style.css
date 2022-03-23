@@ -56,3 +56,25 @@ footer{
     transition: .6s;
     
 }
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.logo .gambar{
+    background-image: url(img/RYdi.jpeg);
+    padding: 20%;
+    border-radius: 50%;
+    background-size: 100%;
+    border: 4px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo .gambar::before{
+    content: '';
+    position: absolute;
+    padding: 20%;
+    background-color: rgba(130, 128, 128, 0.248);
+    border-radius: 50%;
+    
+}
