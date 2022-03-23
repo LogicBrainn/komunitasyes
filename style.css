@@ -52,10 +52,7 @@ footer{
     padding-bottom: 2vh;
 }
 .container {
-    padding-top: 15vh;
+    padding-top: 25vh;
     transition: .6s;
     
-}
-#navbarNavDropdown{
-    position: relative;
 }
