@@ -24,24 +24,7 @@
 .acon:hover{
     background-color: rgb(12, 158, 158);
 }
-.sosmed{
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    list-style: none;
-}
-.sosmed li{
-    margin: 1vh;
-    margin-bottom: 20vh;
-    
-}
-.sosmed li a{
-    color: white;
-    text-decoration: none;
-}
-.sosmed li a:hover{
-   color: rgb(14, 197, 197);
-}
+
 footer a{
     color: rgb(7, 191, 191);
 }
@@ -78,4 +61,9 @@ footer{
     background-color: rgba(130, 128, 128, 0.248);
     border-radius: 50%;
     
+}
+
+.linkContact a:hover{
+    background-color: rgb(136, 197, 176);
+    border-radius: 10px;
 }
